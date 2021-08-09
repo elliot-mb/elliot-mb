@@ -1,4 +1,4 @@
-![yoo](https://user-images.githubusercontent.com/45922387/128703365-b3c56e38-d14e-43f2-8ca0-5c1d882ce18f.png)
+![yoo](https://user-images.githubusercontent.com/45922387/128703716-ced83c59-6830-4a72-b942-ce921d433d6c.png)
 ### Hi there 👋
 - 🔭 I’m currently working on a personal website that may end up being full-stack, and solving problems on [Project Euler](projecteuler.net)
 - 🌱 I’m currently learning to use ssh with my raspberry pi
