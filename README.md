@@ -7,3 +7,10 @@
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to draw!
+\
+\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot-mb&show_icons=true)\
+\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
