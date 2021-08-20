@@ -11,7 +11,7 @@
 \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot-mb&show_icons=true)\
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot-mb&layout=compact&exclude_repo=elliot-mb,elliot-mb.github.io,seihou-catalogue,cloud-docs,audio-visualiser)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot-mb&layout=compact&exclude_repo=elliot-mb,elliot-mb.github.io,seihou-catalogue,cloud-docs,audio-visualiser)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
