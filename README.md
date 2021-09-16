@@ -1,6 +1,6 @@
 ![yoo](https://user-images.githubusercontent.com/45922387/128703716-ced83c59-6830-4a72-b942-ce921d433d6c.png)
 ### Hi there 👋
-- 🔭 I’m currently working on a personal website that may end up being full-stack, and solving problems on [Project Euler](https://projecteuler.net/)
+- 🔭 I’m currently working on my Computer Science BSc 
 - 🌱 I’m currently enjoying applying maths to programming and learning about computer grapics
 - 👯 I’m looking to collaborate on anything I'm interested in
 - 💬 Ask me about interesting maths problems or JavaScript!
