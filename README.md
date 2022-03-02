@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on my Computer Science BSc 
 - 👋 I'm looking for Computer Science internships for 1st-years or 2nd-years (in advance)
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to draw!
 ### Skillset
