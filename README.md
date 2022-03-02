@@ -12,6 +12,7 @@ I have experience with C, JavaScript, Java, Haskell, and C#\
 \
 \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot-mb&show_icons=true)\
+![image](https://user-images.githubusercontent.com/45922387/156374350-c1024444-aedf-4f9b-b1a5-6f17095634e1.png)
 
 
 
