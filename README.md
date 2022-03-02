@@ -4,6 +4,8 @@
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to draw!
+### Skillset
+I have experience with C, JavaScript, Java, Haskell, and C#
 \
 \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliot-mb&show_icons=true)\
