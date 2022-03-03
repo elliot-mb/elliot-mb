@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to draw!
 ### Skillset
-I have experience with C, JavaScript, Java, Haskell, and C#\
+I have experience with C, Java, Haskell, CSS and C#\
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot-mb&layout=compact&exclude_repo=elliot-mb,elliot-mb.github.io,seihou-catalogue,cloud-docs,audio-visualiser)](https://github.com/anuraghazra/github-readme-stats)
 \
