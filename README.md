@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Computer Science BSc (1st year)
-- 👋 I'm looking for Computer Science internships for 1st years or 2nd years (in advance)
+- 👋 I'm looking for Computer Science internships for 2nd years (summer 2023), based in the UK
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
 - 😄 Pronouns: He/Him
