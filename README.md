@@ -5,6 +5,8 @@
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to draw!
+### Handy links
+[LeetCode](https://leetcode.com/elliotmb/), [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
 ### Skillset
 Strengths: [Java](https://github.com/elliot-mb/recursive-gaussian), [JavaScript](https://github.com/elliot-mb/seihou), [CSS](https://github.com/elliot-mb/elliot-mb.github.io), [C](https://github.com/elliot-mb/hilbert-visualiser), [C#](https://github.com/elliot-mb/backup-utility), Haskell, [HTML](https://github.com/elliot-mb/custom-visualiser), [Python](https://github.com/elliot-mb/playlist-puller), Linux\
 Technologies and IDEs: Git, Apache Maven, IntelliJ, CLion, VirtualBox, Vim, Regex.\
