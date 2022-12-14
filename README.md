@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Computer Science BSc (2nd year, on track for a First Class)
-- 👋 I'm looking for Computer Science internships for 2nd years (summer 2023), based in the UK
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
 - 🔗 Connect with me on [LeetCode](https://leetcode.com/elliotmb/), [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
 - 😄 Pronouns: He/Him
