@@ -6,9 +6,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to draw!
 ### Skillset
-Strengths: [Java](https://github.com/elliot-mb/recursive-gaussian), GoLang, [TypeScript](https://github.com/elliot-mb/elliot.github.io), [C](https://github.com/elliot-mb/hilbert-visualiser), JavaScript, [HTML](https://github.com/elliot-mb/custom-visualiser), [CSS](https://github.com/elliot-mb/elliot-mb.github.io), Python, Haskell, Linux\
-Developing skills in: Golang, [Python](https://github.com/elliot-mb/playlist-puller), concurrent programming, FastAPI\
-Technologies: ReactTS, ReactJS, Git, GitHub & PRs\
+Strengths: [Java](https://github.com/elliot-mb/recursive-gaussian), GoLang, [TypeScript](https://github.com/elliot-mb/tree-vis), [C](https://github.com/elliot-mb/hilbert-visualiser), JavaScript, [HTML](https://github.com/elliot-mb/custom-visualiser), [CSS](https://github.com/elliot-mb/elliot-mb.github.io), Haskell, Linux\
+Developing skills in: [Python](https://github.com/elliot-mb/playlist-puller), concurrent programming, FastAPI\
+Technologies: [ReactTS, ReactJS](https://github.com/elliot-mb/elliot-mb.github.io), Git, GitHub & PRs\
 APIs: Spotify, Youtube
 \
 \
