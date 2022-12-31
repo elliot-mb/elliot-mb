@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Computer Science BSc (2nd year, on track for a First Class)
+- 💼 Incoming Summer 2023 Software Engineer Intern at MBDA 
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
 - 🔗 Connect with me on [LeetCode](https://leetcode.com/elliotmb/), [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
 - 😄 Pronouns: He/Him
