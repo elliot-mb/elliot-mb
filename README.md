@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to draw!
 ### Skillset
 Strengths: [Java](https://github.com/elliot-mb/recursive-gaussian), [GoLang](https://github.com/elliot-mb/pichat), [TypeScript](https://github.com/elliot-mb/tree-vis), [C](https://github.com/elliot-mb/hilbert-visualiser), JavaScript, [HTML](https://github.com/elliot-mb/custom-visualiser), [CSS](https://github.com/elliot-mb/elliot-mb.github.io), [Haskell](https://github.com/elliot-mb/points-to-polynomial), Linux\
-Developing skills in: [C++, OpenGL](https://github.com/elliot-mb/pid_simulator), [Python](https://github.com/elliot-mb/playlist-puller), concurrent programming, FastAPI\
+Developing skills in: [C++, OpenGL](https://github.com/elliot-mb/pid_simulator), [Python](https://github.com/elliot-mb/playlist-puller) [Python](https://github.com/elliot-mb/utility-scripts), concurrent programming, FastAPI\
 Technologies: [ReactTS, ReactJS](https://github.com/elliot-mb/elliot-mb.github.io), Git, GitHub & PRs\
 APIs: Spotify, Youtube
 \
