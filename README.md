@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Computer Science BSc (2nd year, on track for a First Class)
-- 💼 3rd year student at the University of Bristol 
+- 🔭 I’m currently working on my Computer Science BSc
+- 💼 3rd year student at the University of Bristol, on track for a First Class
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
 - 🔗 Connect with me on [LeetCode](https://leetcode.com/elliotmb/), [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
 - 😄 Pronouns: He/Him
