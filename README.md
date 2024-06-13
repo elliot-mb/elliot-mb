@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the final year of my Computer Science BSc
+- 🔭 I've finished my final year at the University of Bristol, I will be graduating soon with a BSc Computer Science
 - 💼 3rd year student at the University of Bristol, on track for a First Class
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
 - 🔗 Connect with me on [LeetCode](https://leetcode.com/elliotmb/), [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
