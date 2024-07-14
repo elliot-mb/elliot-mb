@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I've finished my final year at the University of Bristol, I will be graduating soon with a BSc Computer Science
-- 💼 BSc Computer Science with First Class Honors
+- 💼 BSc Computer Science with First Class Honors, please read my thesis [here](https://github.com/elliot-mb/one-sided-success-types/blob/main/Report.pdf)!
 - 📫 How to reach me: elliot.m.buckingham@gmail.com
 - 🔗 Connect with me on [LeetCode](https://leetcode.com/elliotmb/), [LinkedIn](https://www.linkedin.com/in/elliot-buckingham-1a595a19a/)
 - 😄 Pronouns: He/Him
